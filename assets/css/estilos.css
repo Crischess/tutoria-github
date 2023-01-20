@@ -3,9 +3,14 @@ body {
 }
 
 /* Hero Section */
+.frase{
+  color: black;
+  justify-content: center;
+  
+}
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
